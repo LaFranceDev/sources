@@ -7,6 +7,10 @@ Ce dépôt a pour objectif de soutenir les threads publiés par le compte BS [@l
 ## Contenu du Repository
 
 Actuellement, le dépôt contient les fichiers suivants :
+- **[thread-blackout-iberique.md](
+https://github.com/LaFranceDev/sources/blob/main/thread-blackout-iberique.md)**  
+  Ce fichier liste, pour chaque tweet du thread, les liens vers les sources vérifiées qui ont été utilisées pour documenter les affirmations du thread.
+  
 - **[thread-ingerenace-russes.md](
 https://github.com/LaFranceDev/sources/blob/main/thread-ingerenace-russes.md)**  
   Ce fichier liste, pour chaque tweet du thread, les liens vers les sources vérifiées qui ont été utilisées pour documenter les affirmations du thread.
